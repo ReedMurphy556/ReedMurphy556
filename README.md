@@ -21,6 +21,6 @@
 **test Position** | Start Date: xx/xx/xxxx End Date: xx/xx/xxxx
 
 ##Projects
-[test project](https://github.com/yourusername/project-repository)
+[test project](https://github.com/yourusername/new-project)
 
 
