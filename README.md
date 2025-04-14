@@ -1,45 +1,26 @@
-# hello 
-## hello # Contact Information
-**Karl Larson _yeah baby_**<br/>
-*klarson@larsonipl.com*<br/>
-972-740-4582
-# Technologies
-- [Java](https://docs.oracle.com/en/java/)
-- Javascript
-- HTML
-- [Python](https://docs.python.org/3/)
-- Ruby
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Item
+# Hello, I'm Reed Murphy
+<a href="https://instagram.com/Reed_Murphy">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px"/>
+</a>
+<a href="https://linkedin.com/in/reed-murphy-509a73235">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
+</a>
 
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
-# Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+## Education
+### Software Engineering Bootcamp- UT Knoxville
+- Currently attending
+  - graduation 08/03/2025 - [ ]
+ 
+## Skills
+1. HTML
+2. CSS
+3. JS
 
-#### Hi there, I'm Karl Larson [karlllarson](https://www.facebook.com/LarsonIpPc)
-- 👋 Hi, I’m @karlllarson
-- 🌱 I’m currently training on [GitHub Course][website]
+## Experience 
+### Test Company 
+**test Position** | Start Date: xx/xx/xxxx End Date: xx/xx/xxxx
 
-### connect with me.
-[<img alt="Karl Larson" width="40px" src="https://user-images.githubusercontent.com/35807054/118406518-e8374d80-b641-11eb-82ac-dd6b3ceca506.jpg" />][website]
-<!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-``
-for (i=0; i<5; i++)
-  console.log(i);
-``
-[website]: https://www.facebook.com/LarsonIpPc
+##Projects
+[test project](https://github.com/yourusername/project-repository)
+
+
