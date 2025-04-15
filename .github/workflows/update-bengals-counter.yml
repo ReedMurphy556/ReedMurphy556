@@ -17,9 +17,9 @@ jobs:
           days=$(( ($(date -d "$current_date" +%s) - $(date -d "$last_win" +%s) ) / 86400 ))
           
           echo "<!-- BEGIN BENGALS COUNTER -->" > temp.md
-          echo "<div align='center'><h3>Days Since the Cincinnati Bengals Last Won a Playoff Game:</h3>" >> temp.md
+          echo "<div align='center'><h3>Days Since Last Playoff Win:</h3>" >> temp.md
           echo "<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>$days</div>" >> temp.md
-          echo "<div><i>Last win: January 15, 2023 vs. Baltimore Ravens</i></div></div>" >> temp.md
+          echo "<div><i>January 15, 2023 vs. Baltimore Ravens</i></div></div>" >> temp.md
           echo "<!-- END BENGALS COUNTER -->" >> temp.md
           
           # Replace the counter section in README
