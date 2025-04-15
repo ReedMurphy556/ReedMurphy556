@@ -7,9 +7,11 @@
 </a>
 
 <!-- BEGIN BENGALS COUNTER -->
+<!-- BEGIN BENGALS COUNTER -->
 <div align='center'><h3>Days Since the Cincinnati Bengals Last Won a Playoff Game:</h3>
-<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>Loading...</div>
+<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>821</div>
 <div><i>Last win: January 15, 2023 vs. Baltimore Ravens</i></div></div>
+<!-- END BENGALS COUNTER -->
 <!-- END BENGALS COUNTER -->
 
 ## Education
