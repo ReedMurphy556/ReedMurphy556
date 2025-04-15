@@ -6,13 +6,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
 </a>
 
-<!-- BEGIN BENGALS COUNTER -->
-<!-- BEGIN BENGALS COUNTER -->
-<div align='center'><h3>Days Since the Cincinnati Bengals Last Won a Playoff Game:</h3>
-<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>821</div>
-<div><i>Last win: January 15, 2023 vs. Baltimore Ravens</i></div></div>
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
+## Hobbies
+- Bengals fan
+  <!-- BEGIN BENGALS COUNTER -->
+  <div align='left'><h5>Days Since Last Playoff Win:</h5>
+  <div style='font-size:48px; font-weight:bold; color:#FB4F14;'>821</div>
+  <div><i>January 15, 2023 vs. Baltimore Ravens</i></div></div>
+  <!-- END BENGALS COUNTER -->
+
 
 ## Education
 ### Software Engineering Bootcamp- UT Knoxville
