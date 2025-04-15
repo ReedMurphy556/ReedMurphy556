@@ -1,4 +1,4 @@
-<img src="IMG_4626.jpg" alt="name" width="100%">
+<img src="IMG_4626.jpg" alt="name" width="100%" height="10%">
 <a href="https://instagram.com/Reed_Murphy">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px"/>
 </a>
