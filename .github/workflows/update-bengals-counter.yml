@@ -1,0 +1,36 @@
+name: Update Bengals Playoff Counter
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update counter
+        run: |
+          # Calculate days since January 15, 2023 (Bengals' last playoff win)
+          last_win="2023-01-15"
+          current_date=$(date +%Y-%m-%d)
+          days=$(( ($(date -d "$current_date" +%s) - $(date -d "$last_win" +%s) ) / 86400 ))
+          
+          echo "<!-- BEGIN BENGALS COUNTER -->" > temp.md
+          echo "<div align='center'><h3>Days Since the Cincinnati Bengals Last Won a Playoff Game:</h3>" >> temp.md
+          echo "<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>$days</div>" >> temp.md
+          echo "<div><i>Last win: January 15, 2023 vs. Baltimore Ravens</i></div></div>" >> temp.md
+          echo "<!-- END BENGALS COUNTER -->" >> temp.md
+          
+          # Replace the counter section in README
+          sed -i '/<!-- BEGIN BENGALS COUNTER -->/, /<!-- END BENGALS COUNTER -->/{ //!d; }' README.md
+          sed -i '/<!-- BEGIN BENGALS COUNTER -->/r temp.md' README.md
+          rm temp.md
+          
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git commit -m "Update Bengals playoff win counter" || echo "No changes to commit"
+          git push
