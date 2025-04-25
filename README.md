@@ -11,8 +11,9 @@
   <!-- BEGIN BENGALS COUNTER -->
 <!-- BEGIN BENGALS COUNTER -->
 <div align='center'><h3>Days Since Last Playoff Win:</h3>
-<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>830</div>
+<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>831</div>
 <div><i>January 15, 2023 vs. Baltimore Ravens</i></div></div>
+<!-- END BENGALS COUNTER -->
 <!-- END BENGALS COUNTER -->
 <!-- END BENGALS COUNTER -->
 <!-- END BENGALS COUNTER -->
