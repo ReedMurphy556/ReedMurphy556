@@ -1,4 +1,5 @@
-<img src="IMG_4626.jpg" alt="name" width="10%">
+# Reed Murphy
+
 <a href="https://instagram.com/Reed_Murphy">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px"/>
 </a>
@@ -6,32 +7,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
 </a>
 
-## Hobbies
-- Bengals fan
-  <!-- BEGIN BENGALS COUNTER -->
-<!-- BEGIN BENGALS COUNTER -->
-<div align='center'><h3>Days Since Last Playoff Win:</h3>
-<div style='font-size:48px; font-weight:bold; color:#FB4F14;'>835</div>
-<div><i>January 15, 2023 vs. Baltimore Ravens</i></div></div>
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-<!-- END BENGALS COUNTER -->
-  <!-- END BENGALS COUNTER -->
+
 
 
 ## Education
-### Software Engineering Bootcamp- UT Knoxville
+#### Software Engineering Bootcamp- UT Knoxville
 - Currently attending
   - graduation 08/03/2025 - [ ]
  
