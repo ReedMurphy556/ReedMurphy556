@@ -20,10 +20,6 @@
 2. Manual Testing, Client-side Testing, Bug Tracking, Test Case Design
 3. Jira, Trello, Postman
 
-## Experience 
-### Test Company 
-**test Position** | Start Date: xx/xx/xxxx End Date: xx/xx/xxxx
-
 ##Projects
 1. NFL-Stats display (https://github.com/ReedMurphy556/GirdIron-Metrics.git) (week 6)
 
