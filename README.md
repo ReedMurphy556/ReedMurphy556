@@ -25,7 +25,6 @@
 **test Position** | Start Date: xx/xx/xxxx End Date: xx/xx/xxxx
 
 ##Projects
-[test project](https://github.com/yourusername/new-project)
-(https://github.com/ReedMurphy556/GirdIron-Metrics.git)
+1. NFL-Stats display (https://github.com/ReedMurphy556/GirdIron-Metrics.git)
 
 
