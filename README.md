@@ -16,9 +16,9 @@
   - graduation 08/03/2025 - [ ]
  
 ## Skills
-1. HTML
-2. CSS
-3. JS
+1. HTML, CSS, JS, bootstrap, JSON,  Ajax
+2. Manual Testing, Client-side Testing, Bug Tracking, Test Case Design
+3. Jira, Trello, Postman
 
 ## Experience 
 ### Test Company 
